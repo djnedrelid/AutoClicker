@@ -3,6 +3,9 @@
 ![ui example](ui_example.png)  
 
 Opprinnelig laget for Markus som ville jukse litt i Roblox.  
+1. Start program.
+2. Utfør innstillinger. 
+3. Trykk CTRL + Venstre museklikk i program eller spill for å slå den på/av.  
 
 **Endringslogg**
 ```
